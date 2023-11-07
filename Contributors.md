@@ -174,6 +174,7 @@ Rehan Shaikh
 - [Masih Karimi](https://github.com/MasihKarimi)
 - Praveen Bhawantha
 - [Gabriel Waegner](https://github.com/Gwaegs)
+- [Maximiliano Crrasco](https://github.com/macsito-prog)
 - [Anand S](https://github.com/anand2000s)
 - [Aryan Wadhwa](https://github.com/TastyBiscuit0808/first-contributions)
 - [Ishmael Peavy] (https://github.com/ipeavy)
